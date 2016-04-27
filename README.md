@@ -102,4 +102,4 @@ Need to contact someone? Head on over to #uguubot at irc.rizon.net for assistanc
 
 ## Notes
 
-³ eventually
+Since this is an UguuBot fork, I'm just keeping the readme and stuff the same.
