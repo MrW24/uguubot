@@ -19,12 +19,14 @@
         "computer",
         "door",
         "house",
-        "town",
+        "body",
         "TV",
         "body",
         "IRC client",
         "gun",
-        "breakfast"
+        "breakfast",
+        "xBox",
+        "PlayStation"
       ],
       "people": [
         "the Mafia",
