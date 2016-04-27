@@ -2,9 +2,10 @@
    "templates":[
       "{hack} {user}'s {item}",
       "gets caught hacking {user}'s {item} by {people}",
-      "{hack} {user}",
+      "{hack} {user}'s {item} and {user}'s {item}",
       "watches as {hacker} {hack} {user}'s {item}",
-      "watches as {hacker} {hack} {user}"
+      "watches as {hacker} {hack} {user}",
+      "realizes that {user}'s anti-virus is too strong"
       
   ],
    "parts": {
