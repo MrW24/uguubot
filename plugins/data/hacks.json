@@ -6,6 +6,7 @@
       "watches as {hacker} {hack} {user}'s {item}",
       "watches as {hacker} {hack} {user}"
       
+  ],
    "parts": {
       "hack":[
          "hacks",
