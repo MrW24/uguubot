@@ -5,7 +5,8 @@
       "{hack} {user}'s {item} and {user}'s {item}",
       "watches as {hacker} {hack} {user}'s {item2}",
       "watches as {hacker} {hack} {user}",
-      "realizes that {user}'s anti-virus is too strong"
+      "realizes that {user}'s anti-virus is too strong",
+      "uses his elite 1337 hax0r skillz to hax {user}'s {item}"
       
   ],
    "parts": {
