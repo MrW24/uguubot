@@ -93,5 +93,5 @@ def help(inp):
 
 @hook.command(autohelp=False)
 def source(inp):
-    return "\x02WBot's Source\x02 - https://github.com/MrW24/uguubot"
+    return "\x02wbot's Source\x02 - https://github.com/MrW24/wbot"
     
