@@ -1,4 +1,4 @@
-# UguuBot
+# wbot
 
 * Easy to use wrapper
 * Intuitive configuration
@@ -15,7 +15,7 @@
 
 Linux packages needed for install: python, python-dev, libenchant-dev, libenchant1c2a, libxslt-dev, libxml2-dev.
 
-UguuBot runs on **Python** *2.7.x*. It is developed on **Ubuntu** *12.04* with **Python** *2.7.3*.
+wbot runs on **Python** *2.7.x*. It is developed on **Ubuntu** *12.04* with **Python** *2.7.3*.
 
 It **requires the Python module** `lXML`, and `Enchant` is needed for the spellcheck plugin.
 
