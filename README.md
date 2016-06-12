@@ -98,7 +98,7 @@ UguuBot is **licensed** under the **GPL v3** license. The terms are as follows.
 
 ## Contact
 
-Need to contact someone? Head on over to #uguubot at irc.rizon.net for assistance or any other needs.
+Have a question or need support? Come to #W24Bot at irc.rizon.net or irc.xerox.us.to
 
 ## Notes
 
