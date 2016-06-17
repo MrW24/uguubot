@@ -102,4 +102,4 @@ Have a question or need support? Come to #W24Bot at irc.rizon.net or irc.xerox.u
 
 ## Notes
 
-Since this is an UguuBot fork, I'm just keeping the readme and stuff the same.
+*datafiles.py doesn't seem to work...
