@@ -6,7 +6,7 @@ install:
   - "pip install -r requirements.txt"
 
 script:
-  - "python bot.py"
+  - "./uguubot start"
 
 after_success:
   - "coveralls"
