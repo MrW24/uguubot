@@ -7,7 +7,7 @@ from util import hook,database, user
 # CTCP responses
 @hook.regex(r'^\x01VERSION\x01$')
 def ctcp_version(inp, notice=None):
-    notice('\x01VERSION: Skynet v0.99')
+    notice('\x01VERSION: wbot, a Python IRC bot cloned from UguuBot - http://github.com/mrw24/wbot')
 
 
 @hook.regex(r'^\x01PING\x01$')
